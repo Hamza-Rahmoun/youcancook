@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167757686625",
+    "firebase_url": "https://milliondollar-373c5.firebaseio.com",
+    "project_id": "milliondollar-373c5",
+    "storage_bucket": "milliondollar-373c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167757686625:android:2bc7943652198174e4c720",
+        "android_client_info": {
+          "package_name": "com.overnight.youcancook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167757686625-rbpck83a02hbksbideuh4lcndp0s75kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuDvPm344Miba1XFQ-shk94vg66Ej9ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167757686625-rbpck83a02hbksbideuh4lcndp0s75kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
